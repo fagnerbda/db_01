@@ -1,4 +1,4 @@
-# Aulas de Banco de Dados
+# Aulas Banco de Dados
 * Criar bancos
 * Exportar bancos
 *  Query CLI
